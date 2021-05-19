@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283118006443",
+    "project_id": "mncf-s-taxi",
+    "storage_bucket": "mncf-s-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283118006443:android:4d0af17bf29b7fa71747ee",
+        "android_client_info": {
+          "package_name": "com.example.mncfstaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283118006443-1h8crhnkqumbajopo3cg83u0005jtqvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXNo7guQgW7BiNa_9V4rNbVNBgpHgCYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283118006443-1h8crhnkqumbajopo3cg83u0005jtqvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
