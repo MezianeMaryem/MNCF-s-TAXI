@@ -40,7 +40,7 @@
                     android:layout_marginTop="90dp"
                     android:gravity="center"
                     android:text="Je crée mon compte"
-                    android:textColor="#EDB562"
+                    android:textColor="#2B2B2B"
                     android:textSize="36sp"
                     android:textStyle="bold"
                     app:layout_constraintStart_toStartOf="parent"
